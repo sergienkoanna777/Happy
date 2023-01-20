@@ -6,8 +6,7 @@
 ## About The Project
 The gradual appearance of the text built on JavaScript
   <p>
-    <a href="
-https://igethappier.glitch.me">View Demo Here</a>
+    <a href="https://igethappier.glitch.me">View Demo Here</a>
   </p>
 
 ## Built with 
